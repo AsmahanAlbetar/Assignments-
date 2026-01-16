@@ -55,3 +55,24 @@ Release/
 # OneDrive / Windows
 *.tmp
 *.lnk
+# =====================
+# VHDL / ModelSim junk
+# =====================
+work/
+*/work/
+@_opt/
+*/@_opt/
+
+*.wlf
+*.cr.mti
+*.mpf_new
+transcript
+_vmake
+_info
+
+*_lib*.qdb
+*_lib*.qpg
+*_lib*.qtl
+*.qdb
+*.qpg
+*.qtl
