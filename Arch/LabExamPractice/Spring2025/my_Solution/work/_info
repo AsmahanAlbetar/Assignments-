@@ -1,0 +1,114 @@
+m255
+K4
+z2
+Z0 !s99 nomlopt
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+!s11e vcom 2021.1 2021.01, Jan 19 2021
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z1 dC:/questasim64_2021.1/examples
+T_opt
+!s110 1765445284
+V:dfm:PM1N>@LO=dCjiIE41
+04 2 7 work tb arch_tb 1
+=1-14ea63bf8e2e-693a8ea4-129-3784
+!s124 OEM100
+o-quiet -auto_acc_if_foreign -work work
+tCvgOpt 0
+n@_opt
+OL;O;2021.1;73
+R1
+Etb
+Z2 w1765445498
+Z3 DPx4 ieee 11 numeric_std 0 22 aU^R8eGcicLcUFIaBQSL>3
+Z4 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z5 DPx4 ieee 14 std_logic_1164 0 22 cVAk:aDinOX8^VGI1ekP<3
+!i122 24
+Z6 dC:/Users/Asma/OneDrive/Desktop/Archfall2025/LabExamPractice/Spring2025/my_Solution
+Z7 8tb.vhd
+Z8 Ftb.vhd
+l0
+L5 1
+V56fUUCC34LeHO1ngSf42N1
+!s100 zV14bLRPE6PGKUzIIjL6:3
+Z9 OL;C;2021.1;73
+32
+Z10 !s110 1765453636
+!i10b 1
+Z11 !s108 1765453636.000000
+Z12 !s90 -reportprogress|300|tb.vhd|washingMachineController.vhd|
+Z13 !s107 washingMachineController.vhd|tb.vhd|
+!i113 0
+Z14 tExplicit 1 CvgOpt 0
+Aarch_tb
+R3
+R4
+R5
+Z15 DEx4 work 2 tb 0 22 56fUUCC34LeHO1ngSf42N1
+!i122 24
+l32
+Z16 L8 98
+Z17 V7gNB2e7;P^N@4GOG2dXz^0
+Z18 !s100 eRQzgPn?Wjd4I@d4ERZLG1
+R9
+32
+R10
+!i10b 1
+R11
+R12
+R13
+!i113 0
+R14
+Ewashingmachinecontroller
+Z19 w1765443944
+R3
+R4
+R5
+!i122 24
+R6
+Z20 8washingMachineController.vhd
+Z21 FwashingMachineController.vhd
+l0
+L5 1
+V6ln`2o9OdNNA5IbY3b>1;2
+!s100 `XfD[QkL[J:MjR5>n<RBI3
+R9
+32
+R10
+!i10b 1
+R11
+R12
+R13
+!i113 0
+R14
+Aarch_washingmachinecontroller
+R3
+R4
+R5
+Z22 DEx4 work 24 washingmachinecontroller 0 22 6ln`2o9OdNNA5IbY3b>1;2
+!i122 24
+l23
+Z23 L19 64
+Z24 V[zL>6KJ;2KbSR?COBXR>91
+Z25 !s100 3_8L35jT:UzlGKVNh7nI61
+R9
+32
+R10
+!i10b 1
+R11
+R12
+R13
+!i113 0
+R14

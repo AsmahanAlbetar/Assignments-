@@ -1,0 +1,93 @@
+m255
+K4
+z2
+!s11e vcom 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Users/Mazen/Desktop/Lab_Exan
+Etb
+Z1 w1749837311
+Z2 DPx4 ieee 11 numeric_std 0 22 aU^R8eGcicLcUFIaBQSL>3
+Z3 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z4 DPx4 ieee 14 std_logic_1164 0 22 cVAk:aDinOX8^VGI1ekP<3
+!i122 3
+R0
+Z5 8TB.vhd
+Z6 FTB.vhd
+l0
+L5 1
+V^59]29d=7aYjTUlkKZ8RL0
+!s100 KRB2l^EZNezjd@4XR<gZS3
+Z7 OV;C;2020.1;71
+32
+Z8 !s110 1749837602
+!i10b 1
+Z9 !s108 1749837602.000000
+Z10 !s90 -reportprogress|300|TB.vhd|
+Z11 !s107 TB.vhd|
+!i113 1
+Z12 tExplicit 1 CvgOpt 0
+Aarch_tb
+R2
+R3
+R4
+Z13 DEx4 work 2 tb 0 22 ^59]29d=7aYjTUlkKZ8RL0
+!i122 3
+l43
+L14 97
+V5???SSR4^P;_DR8YnDF]M3
+!s100 aLnEClKD5jLlO2a2dH^3[3
+R7
+32
+R8
+!i10b 1
+R9
+R10
+R11
+!i113 1
+R12
+Ewashingmachinecontroller
+Z14 w1749835920
+R2
+R3
+R4
+!i122 1
+R0
+Z15 8washingMachineController.vhd
+Z16 FwashingMachineController.vhd
+l0
+L5 1
+Vn`158XTGN:E3?lcZ2D[VV2
+!s100 f]15kd:B]RW2LNUE`5I[i2
+R7
+32
+Z17 !s110 1749835922
+!i10b 1
+Z18 !s108 1749835922.000000
+Z19 !s90 washingMachineController.vhd|
+Z20 !s107 washingMachineController.vhd|
+!i113 1
+R12
+Aarch_washingmachinecontroller
+R2
+R3
+R4
+DEx4 work 24 washingmachinecontroller 0 22 n`158XTGN:E3?lcZ2D[VV2
+!i122 1
+l30
+L23 115
+V=4Bj3_]<:gnPBm^50L=3o1
+!s100 =X5U^e]FBMFM5f@3@N<VE1
+R7
+32
+R17
+!i10b 1
+R18
+R19
+R20
+!i113 1
+R12

@@ -1,0 +1,40 @@
+# do test.do
+# Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 21:00:02 on Jun 13,2025
+# vcom -reportprogress 300 TB.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package NUMERIC_STD
+# -- Compiling entity TB
+# -- Compiling architecture arch_TB of TB
+# End time: 21:00:02 on Jun 13,2025, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vsim work.TB 
+# Start time: 21:00:02 on Jun 13,2025
+# Loading std.standard
+# Loading std.textio(body)
+# Loading ieee.std_logic_1164(body)
+# Loading ieee.numeric_std(body)
+# Loading work.tb(arch_tb)
+# Loading work.washingmachinecontroller(arch_washingmachinecontroller)
+# ** Error: Issue in the fill state
+#    Time: 200 ns  Iteration: 0  Instance: /tb
+# ** Error: Issue in the fill state
+#    Time: 3000000200 ns  Iteration: 0  Instance: /tb
+# ** Error: Issue in the fill state
+#    Time: 8000000200 ns  Iteration: 0  Instance: /tb
+# ** Error: Issue in the fill state
+#    Time: 10000000200 ns  Iteration: 0  Instance: /tb
+# ** Error: Issue in the fill state
+#    Time: 14000000400 ns  Iteration: 0  Instance: /tb
+# ** Error: Issue in the fill state
+#    Time: 17000000400 ns  Iteration: 0  Instance: /tb
+# ** Error: Issue in the fill state
+#    Time: 22000000400 ns  Iteration: 0  Instance: /tb
+# ** Error: Issue in the fill state
+#    Time: 24000000400 ns  Iteration: 0  Instance: /tb
+# ** Error: Issue in the fill state
+#    Time: 28000000600 ns  Iteration: 0  Instance: /tb
+# End time: 21:04:16 on Jun 13,2025, Elapsed time: 0:04:14
+# Errors: 9, Warnings: 0
